@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="Question_text1" > Java is awesome </string>
+    <string name="Question_text2"> Is Star Wars bad </string>
+    <string name="Question_text3"> I have a twin </string>
+    <string name="correct"> Correct, awesome!  </string>
+    <string name="incorrect"> Incorrect, try again.  </string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next">Next</string>
+    <string name="prev">Previous</string>
+</resources>
